@@ -1,0 +1,47 @@
+.home-wrapper-1 {
+    height: 70%;
+    background: blanchedalmond;
+    padding: 5px;
+    border-radius: 5px;
+}
+.home-sect-1 {
+height: 50vh;
+width: 100%;
+background: url(/Assets/Images/George.jpg) no-repeat center;
+background-size: cover;
+border: 15px solid #edefef;
+border-top: none;
+border-radius: 5px;
+display: flex;
+align-items: center;
+padding: 20px;
+animation: move 6s infinite;
+}
+
+.int-1 {
+    color: #edefef;
+    font-size: 55px;
+}
+
+/*  */
+.s-nav {
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    background: #edefef;
+}
+.box-1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+}
+.menu-btn {
+    cursor: pointer;
+    border: transparent;
+    background: transparent;
+    width: 20px;
+}
+.menu-btn img {
+    width: 100%;
+}

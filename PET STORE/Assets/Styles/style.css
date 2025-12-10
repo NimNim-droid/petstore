@@ -1,0 +1,29 @@
+/* NAVBAR */
+@import "navbar.css";
+/* HOME */
+@import "/Assets/Styles/home/container.css";
+@import "/Assets/Styles/home/content.css";
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: sans-serif;
+}
+main {
+    overflow: hidden;
+}
+
+
+/* COLOR PALLETE */
+
+/* primary */ /* #62cdcd */
+/* secondary */ /* #62cdcd */
+/* tertiary */ /* #62cdcd */
+/* fourtiary */ /* #62cdcd */
+/* fifthiary */ /* #62cdcd */
